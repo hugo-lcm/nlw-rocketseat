@@ -1,3 +1,5 @@
+.exposhared/
+.vscode/
 node_modules/
 .expo/
 dist/
